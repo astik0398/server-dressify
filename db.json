@@ -780,40 +780,6 @@
             ]
         },
         {
-            "name": "3-PACK OF PLAIN T-SHIRTS",
-            "price": 1490,
-            "id" : 34,
-            "category": "kids",
-
-            "rating": 5,
-            "disc": " Pack of 3 plain long sleeve T-shirts with a round neckline. This pack is indivisible and must be returned complete.",
-            "detail": "Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
-            "item": [
-                {
-                    "color": "blue",
-                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/1887/792/112/2/w/27/1887792112_6_1_1.jpg?ts=1662109479887",
-                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/1887/792/112/2/w/27/1887792112_6_3_1.jpg?ts=1662109480302",
-                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/1887/792/112/2/w/27/1887792112_6_4_1.jpg?ts=1662109490824"
-                },
-                {
-                    "color": "green",
-                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/1887/792/120/2/w/27/1887792120_6_3_1.jpg?ts=1662109480452",
-                    "img4": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833"
-                },
-            
-                {
-                    "color": "white",
-                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/1887/792/113/2/w/27/1887792113_6_2_1.jpg?ts=1662109479675",
-                    "img3": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/1887/792/113/2/w/27/1887792113_6_4_1.jpg?ts=1662109489583"
-                }
-            ]
-        },
-        {
             "name": "KIDS/ LACE-UP SKATE SNEAKERS",
             "price": 1990,
             "id" : 35,
@@ -884,44 +850,6 @@
                     "img2": "",
                     "img3": "",
                     "img4": ""
-                }
-            ]
-        },
-        {
-            "name": "KIDS/ 3-PACK OF BRIEFS",
-            "price": 990,
-            "id" : 38,
-            "category": "kids",
-
-            "rating": 1,
-            "disc": "Pack of three pairs of briefs with an elastic waistband.",
-            "detail": "Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
-            "item": [
-                {
-                    "color": "white",
-                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img3": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/8501/791/250/2/w/27/8501791250_6_4_1.jpg?ts=1660305371809"
-                }
-            ]
-        },
-        {
-            "name": "KIDS/ RIBBED BEAR PYJAMAS",
-            "price": 1590,
-            "id" : 39,
-            "category": "kids",
-
-            "rating": 5,
-            "disc": "Two-piece pyjamas. T-shirt with a round neck and long sleeves. Long trousers with an elasticated waistband and cuffed hems. This pack is indivisible and must be returned complete",
-            "detail": "Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
-            "item": [
-                {
-                    "color": "blue",
-                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/8501/783/514/303/w/27/8501783514_1_1_1.jpg?ts=1664364253459",
-                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/8501/783/514/2/w/27/8501783514_6_1_1.jpg?ts=1661502092945",
-                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/8501/783/514/2/w/27/8501783514_6_2_1.jpg?ts=1661502093653",
-                    "img4": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833"
                 }
             ]
         },
@@ -1043,61 +971,6 @@
                     "img2": "",
                     "img3": "",
                     "img4": ""
-                }
-            ]
-        },
-        {
-            "name": "KIDS/ KNIT WRAP NECK WARMER",
-            "price": 890,
-            "id" : 45,
-            "category": "kids",
-
-            "rating": 5,
-            "disc": "Knit wrap neck warmer.",
-            "detail": "Care for fiber & water: at least 50% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environm",
-            "item": [
-                {
-                    "color": "brown",
-                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/4701/797/709/2/w/27/4701797709_6_5_1.jpg?ts=1661500652124"
-                },
-                {
-                    "color": "blue",
-                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/4701/797/401/2/w/27/4701797401_6_5_1.jpg?ts=1661500647937"
-                },
-                {
-                    "color": "black",
-                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/4701/797/800/2/w/27/4701797800_6_2_1.jpg?ts=1662720503868",
-                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/4701/797/800/2/w/27/4701797800_6_5_1.jpg?ts=1669737726031"
-                },
-                {
-                    "color": "grey",
-                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/4701/797/802/2/w/27/4701797802_6_1_1.jpg?ts=1661502093005",
-                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/4701/797/802/2/w/27/4701797802_6_2_1.jpg?ts=1661502094876",
-                    "img3": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833"
-                }
-            ]
-        },
-        {
-            "name": "SPICE GIRLS © HOODIE",
-            "price": 2290,
-            "id" : 46,
-            "category": "kids",
-
-            "rating": 4,
-            "disc": "Hoodie with long sleeves and ribbed trims. SPICE GIRLS © print",
-            "detail": "Care for fiber: at least 45% recycled cotton & 45% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products",
-            "item": [
-                {
-                    "color": "black",
-                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
-                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/1277/704/800/2/w/27/1277704800_6_3_1.jpg?ts=1663775685032",
-                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/1277/704/800/102/w/27/1277704800_1_1_1.jpg?ts=1664523875899"
                 }
             ]
         },
